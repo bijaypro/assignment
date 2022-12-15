@@ -43,7 +43,8 @@
 //     {id: 2,name:"jacob" ,add:"bbs"}
 // ]
 // let op=geek.find(val=>val.id===1);
-// console.log(op)
+// console.log(op) 
+////////
 
 
 
